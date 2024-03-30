@@ -6,7 +6,10 @@ Notes and models for using https://sites.fct.unl.pt/gbt/
 ## Decimal separator
 To input decimal numbers, separator for active locale must be used. E.g. for fi , is used although . is used in outputs.
 
-## GBT.exe
+## UI GBTUL.exe
+Uses dotnet 4 https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48
+
+## Solver GBT.exe
 Written in fortran. Many input file names and print templates are shown using process explorer's Strings tab.
 Image is 32-bit.
 Input and output filenames are available in GBTUL.exe.config
