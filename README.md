@@ -68,7 +68,7 @@ comment after --
 
 ### Output-Files
 
-#### out1.txt
+#### out1.txt Cross-Section Geometrical Properties
 ```
      1600.000000000000000
   2667733.333333339000000  2667733.333333333000000
@@ -78,6 +78,9 @@ comment after --
    0.000000000000000E+000   0.000000000000000E+000
 
 ```
+Shown in UI Mode selection tab
+![image](https://github.com/simo-11/gbtul/assets/1210784/b94c51b5-361c-4192-b3ac-1175be8f15de)
+
 
 #### out2.txt
 
