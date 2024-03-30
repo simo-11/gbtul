@@ -29,7 +29,7 @@ comment after --
 2  3  1  0  4
 3  4  1  0  4
 4  1  1  0  4
-1 -- ?
+1 -- Materials
 210000  210000  0.3  0.3  80769.2307692308  7.8E-06 - Exx Ess nu-xs nu-sx G rho
 0 -- Length-Distributed Elastic Supports and Additional Masses
 0 -- Distributed along longitudinal strips 
