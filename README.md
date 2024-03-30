@@ -35,8 +35,7 @@ comment after --
 0 -- Distributed along longitudinal strips 
 ```
 Reflects UI's Cross-Section Analysis tab
-![image](https://github.com/simo-11/gbtul/assets/1210784/11cdecc1-9581-42aa-9c66-05e0eddca2f4)
-
+![image](https://github.com/simo-11/gbtul/assets/1210784/ddee0705-6619-4e9c-823b-2b30b19c292e)
 
 #### UNIT 2 - inp2.txt
 
