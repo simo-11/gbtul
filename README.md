@@ -25,15 +25,18 @@ comment after --
 100   100
 0   100
 4 -- elements
-1  2  1  0  4 -- i-node j-node ? ? thickness
+1  2  1  0  4 -- i-node j-node material intermediate-nodes thickness
 2  3  1  0  4
 3  4  1  0  4
 4  1  1  0  4
 1 -- ?
-210000  210000  0.3  0.3  80769.2307692308  7.8E-06 - Ey Ez nuy nuz G rho
-0 --? 
-0 --? 
+210000  210000  0.3  0.3  80769.2307692308  7.8E-06 - Exx Ess nu-xs nu-sx G rho
+0 -- Length-Distributed Elastic Supports and Additional Masses
+0 -- Distributed along longitudinal strips 
 ```
+Reflects UI's Cross-Section Analysis tab
+![image](https://github.com/simo-11/gbtul/assets/1210784/11cdecc1-9581-42aa-9c66-05e0eddca2f4)
+
 
 #### UNIT 2 - inp2.txt
 
